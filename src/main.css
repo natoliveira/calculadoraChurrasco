@@ -1,0 +1,87 @@
+.btn-1{
+    text-align: center;
+}
+
+#botaoCalcular{
+    background-color: #ffff00;
+    width: 180px;
+    height: 50px;
+    margin-top: 60px;
+    border-radius: 15px;
+    margin-right: 60px;
+    margin-left: 100px;
+}
+
+.btn-2{
+    text-align: center;
+}
+
+.btn-3{
+    font-family: 'Lobster', cursive; 
+}
+body{
+    background-image: url(../img/churrasco.jpg);
+    display: flex;
+    
+}
+
+.btn-4{
+    text-align: center;
+}
+
+.btn-5{
+    width: 200px;
+    height: 20px;
+}
+.btn-6{
+    margin-right: 400px;
+}
+.btn-7{
+    margin-left: 400px;
+    margin-top: -210px;
+}
+
+.container{
+    background-color:#fff99999;
+    text-align: center;
+    height: 500px;
+    margin-top: 500px;
+    border-radius: 15px;
+
+}
+
+#total-bebidas-alcoolicas{
+    width: 150px;
+    height: 70px;
+}
+
+#bebidas-nao-alcoolicas{
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+}
+#acompanhamentos{
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+}
+#criancas-qnt{
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+}
+#homens-qnt{
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+}
+#mulheres-qnt{
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+}
+#bebidas-alcoolicas{
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+}
